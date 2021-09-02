@@ -1,0 +1,21 @@
+{
+  "name": "simplereducer",
+  "version": "1.0.0",
+  "description": "Simplifying Reducers, Actions, and State",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelpaulcuccia/simpleReducer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelpaulcuccia/simpleReducer/issues"
+  },
+  "homepage": "https://github.com/michaelpaulcuccia/simpleReducer#readme"
+}
